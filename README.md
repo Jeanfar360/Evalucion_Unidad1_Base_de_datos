@@ -3,6 +3,7 @@
 ## 🎓 Universidad Nacional de Loja
 ### 🧮 Carrera: Computación
 ### 💻 Asignatura: Base de Datos
+### 👨‍🏫 Ingeniero: Edwin René Guamán Quinche
 ### 👨‍🎓 Estudiante: Jeancarlos Fernando Aguirre Romero
 
 ---
@@ -30,7 +31,7 @@ Creación de tablas, carga de datos y consultas traducidas desde el álgebra rel
 
 [Ver carpeta](04_sql/)
 
-### 📊 4. CSV para Relational
+### 📊 4. Tablas para Relational
 Un CSV por tabla, listos para cargar en la aplicación Relational.
 
 [Ver carpeta](05_relational_csv/)
