@@ -29,7 +29,7 @@ Archivos XML editables del diagrama E-R (draw.io).
 ### 🛢️ 3. Código SQL
 Creación de tablas, carga de datos y consultas traducidas desde el álgebra relacional.
 
-[Ver carpeta](04_sql/)
+[Ver carpeta](CodigoSQL/)
 
 ### 📊 4. Tablas para Relational
 Un CSV por tabla, listos para cargar en la aplicación Relational.
