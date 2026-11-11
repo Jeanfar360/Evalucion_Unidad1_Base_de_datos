@@ -20,30 +20,20 @@ Notebook de Google Colab que obtiene los datos y el CSV que genera.
 
 [Ver carpeta](01_programa_original/)
 
-### 🧩 2. Modelo entidad-relación
+### 🧩 2. Modelo entidad-relación y Modelo relacional
 Archivos XML editables del diagrama E-R (draw.io).
 
 [Ver carpeta](02_modelo_entidad_relacion/)
 
-### 🗂️ 3. Modelo relacional
-Archivos XML editables del modelo relacional (draw.io).
-
-[Ver carpeta](03_modelo_relacional/)
-
-### 🛢️ 4. Código SQL
+### 🛢️ 3. Código SQL
 Creación de tablas, carga de datos y consultas traducidas desde el álgebra relacional.
 
 [Ver carpeta](04_sql/)
 
-### 📊 5. CSV para Relational
+### 📊 4. CSV para Relational
 Un CSV por tabla, listos para cargar en la aplicación Relational.
 
 [Ver carpeta](05_relational_csv/)
-
-### 📝 6. Informe final
-Documento completo del proyecto, con resultados y conclusiones.
-
-[Ver carpeta](06_informe/)
 
 ---
 
