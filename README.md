@@ -19,7 +19,7 @@ Proyecto final de Base de Datos que convierte un archivo CSV real del canal de Y
 ### 🐍 1. Programa original y CSV original
 Notebook de Google Colab que obtiene los datos y el CSV que genera.
 
-[Ver carpeta](01_programa_original/)
+[Ver carpeta](Proyecto_Original/)
 
 ### 🧩 2. Modelo entidad-relación y Modelo relacional
 Archivos XML editables del diagrama E-R (draw.io).
