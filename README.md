@@ -24,7 +24,7 @@ Notebook de Google Colab que obtiene los datos y el CSV que genera.
 ### 🧩 2. Modelo entidad-relación y Modelo relacional
 Archivos XML editables del diagrama E-R (draw.io).
 
-[Ver carpeta](02_modelo_entidad_relacion/)
+[Ver carpeta](Modelo_Entidad-Relacion_y_Modelo_Relacional/)
 
 ### 🛢️ 3. Código SQL
 Creación de tablas, carga de datos y consultas traducidas desde el álgebra relacional.
