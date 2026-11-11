@@ -34,7 +34,7 @@ Creación de tablas, carga de datos y consultas traducidas desde el álgebra rel
 ### 📊 4. Tablas para Relational
 Un CSV por tabla, listos para cargar en la aplicación Relational.
 
-[Ver carpeta](05_relational_csv/)
+[Ver carpeta](TablasCSV(Relational)/)
 
 ---
 
