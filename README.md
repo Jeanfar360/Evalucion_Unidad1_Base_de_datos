@@ -10,7 +10,7 @@
 
 ## 📘 Descripción
 
-Proyecto final de Base de Datos que convierte un archivo CSV real del canal de YouTube **Vocaloid Ranks** (867 filas, obtenido con la API de YouTube) en una base de datos relacional de siete tablas: modelo entidad-relación, modelo relacional, implementación en SQL y consultas verificadas en álgebra relacional.
+Proyecto final de esta Unidad de la Materia de Base de Datos que convierte un archivo CSV real del canal de YouTube **Vocaloid Ranks** (867 filas, obtenido con la API de YouTube) en una base de datos relacional de siete tablas: modelo entidad-relación, modelo relacional, implementación en SQL y consultas verificadas en álgebra relacional.
 
 ---
 
